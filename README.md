@@ -11,8 +11,5 @@ _卷积神经网络（CNN）的结构设计_
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhumengchao/main/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
