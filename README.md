@@ -13,6 +13,4 @@
 
 [https://zhuanlan.zhihu.com/p/56700862](https://zhuanlan.zhihu.com/p/56700862)
 
-
-mc
-![]（D10884A3-412F-4BDB-B88B-C5CA561B9238.jpeg）
+！[image](mc/D10884A3-412F-4BDB-B88B-C5CA561B9238.jpeg)
